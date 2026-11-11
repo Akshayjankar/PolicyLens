@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <!-- Magnifying glass circle -->
+  <circle cx="52" cy="52" r="34" stroke="#6B7FD7" stroke-width="11"/>
+  <!-- Magnifying glass handle -->
+  <line x1="77" y1="77" x2="108" y2="108" stroke="#6B7FD7" stroke-width="11" stroke-linecap="round"/>
+  <!-- Shield inside lens -->
+  <path d="M52 32 L66 38 L66 54 Q66 62 52 68 Q38 62 38 54 L38 38 Z"
+        fill="#6B7FD7" opacity="0.25"/>
+  <path d="M52 35 L64 40.5 L64 54.5 Q64 61 52 66.5 Q40 61 40 54.5 L40 40.5 Z"
+        stroke="#6B7FD7" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Keyhole dot -->
+  <circle cx="52" cy="50" r="4" fill="#6B7FD7"/>
+  <!-- Keyhole stem -->
+  <rect x="50" y="52" width="4" height="6" rx="1" fill="#6B7FD7"/>
+</svg>
